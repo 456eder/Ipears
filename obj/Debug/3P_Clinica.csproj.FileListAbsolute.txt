@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\3P_Clinica\bin\Debug\3P_Clinica.exe.config
+C:\Users\adrie\Desktop\3P_Clinica\bin\Debug\3P_Clinica.exe
+C:\Users\adrie\Desktop\3P_Clinica\bin\Debug\3P_Clinica.pdb
+C:\Users\adrie\Desktop\3P_Clinica\obj\Debug\3P_Clinica.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\3P_Clinica\obj\Debug\3P_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\3P_Clinica\obj\Debug\3P_Clinica.exe
+C:\Users\adrie\Desktop\3P_Clinica\obj\Debug\3P_Clinica.pdb
